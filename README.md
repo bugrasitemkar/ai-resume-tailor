@@ -133,7 +133,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Built with [CrewAI](https://github.com/joaomdmoura/crewAI)
 - [Full Tutorial](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/a8ecj/build-a-crew-to-tailor-job-applications)
-- 
 
 ## 📞 Support
 
@@ -141,7 +140,3 @@ Having issues? Check out:
 - [CrewAI Documentation](https://docs.crewai.com/)
 - [OpenAI API Documentation](https://platform.openai.com/docs)
 - [Serper API Documentation](https://serper.dev/api-key)
-
----
-
-**⭐ Star this repo if AI Resume Tailor helped you land your dream job!**
